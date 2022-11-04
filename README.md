@@ -5,8 +5,8 @@ To import the module in a cript use the following codeblock and modify the event
 
 ```
 ##Initial Setup##
-$env:RMMEventSource = "CHANGEME - Template"
-Import-Module "<path-to-module>\UniversalRMMFunctions.psm1"
+$env:RMMEventSource = "CTSRMM"
+Import-Module "C:\cts\CTSRMM.psm1"
 ##End Enitial Setup##
 ```
 
